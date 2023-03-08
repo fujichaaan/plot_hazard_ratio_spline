@@ -66,7 +66,7 @@ ggplot(est1, aes(age, yhat)) +
                      breaks = seq(30, 70, 10)) +
   scale_y_continuous(limits = c(0.1, 8),
                      breaks = c(0.37, 0.61, 1.0, 1.6, 2.7, 4.5)) +
-  coord_trans(y = "log10") +
+  coord_trans(y = "log") +
   labs(x = "Age, yrs",
        y = "Hazard ratio (95% CI)") +
   theme_bw() +
@@ -99,7 +99,7 @@ ggplot(est3, aes(age, yhat)) +
                      breaks = seq(30, 70, 10)) +
   scale_y_continuous(limits = c(0.1, 8),
                      breaks = c(0.37, 0.61, 1.0, 1.6, 2.7, 4.5)) +
-  coord_trans(y = "log10") +
+  coord_trans(y = "log") +
   labs(x = "Age, yrs",
        y = "Hazard ratio (95% CI)") +
   theme_bw() +
@@ -127,7 +127,7 @@ ggplot(est2, aes(age, yhat)) +
                      breaks = seq(30, 70, 10)) +
   scale_y_continuous(limits = c(0.1, 8),
                      breaks = c(0.37, 0.61, 1.0, 1.6, 2.7, 4.5)) +
-  coord_trans(y = "log10") +
+  coord_trans(y = "log") +
   labs(x = "Age, yrs",
        y = "Hazard ratio (95% CI)") +
   theme_bw() +
@@ -163,7 +163,7 @@ ggplot(est1, aes(age, yhat)) +
                      breaks = seq(30, 70, 10)) +
   scale_y_continuous(limits = c(0.1, 10),
                      breaks = c(0.1, 0.25, 0.5, 1.0, 2.0, 4.0, 10.0)) +
-  coord_trans(y = "log10") +
+  coord_trans(y = "log") +
   labs(x = "Age, yrs",
        y = "Hazard ratio (95% CI)") +
   theme_bw() +
