@@ -21,7 +21,7 @@ Using the cph and Predict functions, we can estimate hazard ratio and summrise t
 
 <br>
 
-![image](https://user-images.githubusercontent.com/19466700/223553647-e893407e-64ad-49f3-b3bd-3ae12881f51d.png)
+![image](https://user-images.githubusercontent.com/19466700/223652051-ea63e66e-cfd6-4c1f-a900-be2385590c5f.png)
 
 <br>
 
@@ -62,9 +62,7 @@ If you would like to change n_knots and cutoff values, you give your own value. 
 
 <br>
 
-
-
-![image](https://user-images.githubusercontent.com/19466700/223550837-f709345e-6c9e-49f8-bd0d-dedd0d494730.png)
+![image](https://user-images.githubusercontent.com/19466700/223651978-c7d44676-6cdb-44b0-b947-fad87fc598e7.png)
 
 <br>
 
@@ -73,7 +71,7 @@ In default settings, the reference value of rcs is set median of exposure variab
 
 <br>
 
-![image](https://user-images.githubusercontent.com/19466700/223553435-f323fabd-f364-45a0-94d2-542bc59ba14a.png)
+![image](https://user-images.githubusercontent.com/19466700/223651893-16c45eec-3569-49d3-a97f-95c1550a8af0.png)
 
 <br>
 
@@ -103,7 +101,7 @@ The settings are defined as the following table.
 
 <br>
 
-![image](https://user-images.githubusercontent.com/19466700/223557644-eee78933-321e-4ecf-9ab1-e8030f541aac.png)
+![image](https://user-images.githubusercontent.com/19466700/223651838-78797a84-cda4-4a30-87f7-53597ce967c6.png)
 
 <br>
 
