@@ -21,7 +21,7 @@ Using the cph and Predict functions, we can estimate hazard ratio and summrise t
 
 <br>
 
-![image](https://user-images.githubusercontent.com/19466700/223652051-ea63e66e-cfd6-4c1f-a900-be2385590c5f.png)
+![image](https://user-images.githubusercontent.com/19466700/223875831-ada96d8d-d16c-4402-a5ea-528f7354ade7.png)
 
 <br>
 
@@ -62,7 +62,7 @@ If you would like to change n_knots and cutoff values, you give your own value. 
 
 <br>
 
-![image](https://user-images.githubusercontent.com/19466700/223651978-c7d44676-6cdb-44b0-b947-fad87fc598e7.png)
+![image](https://user-images.githubusercontent.com/19466700/223875777-ddfbb3cf-88f8-4efd-a84f-ec97c73cf808.png)
 
 <br>
 
@@ -71,7 +71,7 @@ In default settings, the reference value of rcs is set median of exposure variab
 
 <br>
 
-![image](https://user-images.githubusercontent.com/19466700/223651893-16c45eec-3569-49d3-a97f-95c1550a8af0.png)
+![image](https://user-images.githubusercontent.com/19466700/223875721-c3a6891a-6b91-48da-9e60-6aff9754156b.png)
 
 <br>
 
@@ -101,11 +101,20 @@ The settings are defined as the following table.
 
 <br>
 
-![image](https://user-images.githubusercontent.com/19466700/223651838-78797a84-cda4-4a30-87f7-53597ce967c6.png)
+![image](https://user-images.githubusercontent.com/19466700/223875683-0c491b36-0d83-4081-b25b-62811db0c2de.png)
 
 <br>
 
-## 5. Questions/Bugs
+## 5. Additional practices
+Visualizes the results of Cox proportional hazard model with both restriced cubic spline and linear for age in one figure
+ 
+ <br>
+ 
+ ![image](https://user-images.githubusercontent.com/19466700/223875646-5174dbc3-2420-4d01-a8c5-c1b3a4619c65.png)
+ 
+ <br>
+
+## 6. Questions/Bugs
 If you find any mistakes/bugs on this page and code, please contact me via e-mail.
 
 <b>Ryosuke FUJII, PhD</b><br>
