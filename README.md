@@ -1,4 +1,4 @@
-# plot_hazard_ratio_spline 📊
+# How to plot hazard ratios with spline function 📊
 This page summarizes data visualization for time-to-event analysis with an exposure with restricted cubic spline function
 
 ----------------------------------- + 
